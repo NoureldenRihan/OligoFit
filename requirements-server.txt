@@ -1,0 +1,5 @@
+# Extra packages for the web API (fastapi_backend.py); install together with requirements.txt
+fastapi
+uvicorn
+pydantic
+firebase-admin
